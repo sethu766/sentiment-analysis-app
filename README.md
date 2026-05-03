@@ -30,5 +30,8 @@ This is a machine learning-based web app that analyzes the sentiment of user inp
 Input: "I love this product"  
 Output: Positive Sentiment 
 
+## Output
+![App Screenshot](output.png)
+
 ## Author
 Sethulekshmi S
